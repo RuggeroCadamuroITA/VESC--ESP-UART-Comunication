@@ -28,12 +28,3 @@ For any questions, issues, or support related to this project, you can contact m
 
 ---
 
-**Further Development:**
-
-This README provides a basic overview.  To make this a more comprehensive and user-friendly repository, consider adding the following sections:
-
-* **Installation:**  Detailed instructions on how to set up the hardware and software components.
-* **Usage:**  Examples of how to run the code and interact with the VESC and Bluetooth connection.
-* **Code Structure:**  A brief explanation of the code organization and key files.
-* **Contributing:**  Guidelines for anyone who wants to contribute to the project.
-* **License:** (Already added above, but you can link to a separate LICENSE file if you create one)
