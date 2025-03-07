@@ -41,8 +41,8 @@ void loop() {
     erpm=(UART.data.rpm);      // erpm del vesc
     rpm= erpm / (46/2);  //motor poles diviso 2
     batt = (((voltage/20)-3.4)/0.8)*100; // calcolo percentuale batteria con 3.4v da scarica 
-    distance = rpm*3.142*(1.0/1000)*DR*1;
-    velocity = rpm*3.142*(60.0/1000)*DR*1;
+    distance = rpm*3.142*(1.0/1000)*DR*1; // calcolo distanza ???  
+    velocity = rpm*3.142*(60.0/1000)*DR*1; // calcolo velocità, in caso di problemi controlla rpm
   }
   else
   {
