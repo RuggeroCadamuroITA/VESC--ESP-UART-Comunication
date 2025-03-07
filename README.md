@@ -7,5 +7,5 @@ Codice di Ruggero Cadamuro per arduino pro micro con ATMEGA32u, comunicazione UA
    		VESC LCD EXAMPLE: https://github.com/TomStanton/VESC_LCD_EBIKE/tree/master
 
 
-     ![image](https://github.com/user-attachments/assets/ad3187ad-3e75-45d9-b960-1ce3910a27ef)
+     
 
