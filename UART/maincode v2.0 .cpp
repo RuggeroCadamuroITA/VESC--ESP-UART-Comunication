@@ -1,4 +1,4 @@
-// codice di Ruggero Cadamuro per arduino pro micro con ATMEGA32u, comunicazione UART TX RX harware serial con FLIPSKY 75100
+// codice di Ruggero Cadamuro per arduino pro micro con ATMEGA32u, comunicazione UART TX RX harware serial con FLIPSKY 75100 (probabilmemte qualsiasi Vesc)
 
 #include <VescUart.h>
 
