@@ -17,6 +17,8 @@ float DR;
 
 void setup() {
 
+  DR=
+
   /** Setup Serial port to display data */
   Serial.begin(9600);
 
